@@ -10,4 +10,8 @@ operation.
 
 >>>>>>> branch 'master' of https://github.com/ehemdal/RSEG-0126
 
+<<<<<<< Upstream, based on origin/master
 Rebase test
+=======
+Modify readme by adding more text, which is this line
+>>>>>>> cd98f6e Merge test
