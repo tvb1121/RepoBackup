@@ -9,3 +9,5 @@ this file, you have successfully completed a git pull
 operation.
 
 >>>>>>> branch 'master' of https://github.com/ehemdal/RSEG-0126
+
+Modify readme by adding more text, which is this line
