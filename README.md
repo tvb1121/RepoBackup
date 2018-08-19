@@ -18,8 +18,25 @@ Rebase test
 >>>>>>> 4b6495a Update README.md
 =======
 <<<<<<< Upstream, based on origin/master
+<<<<<<< HEAD
+<<<<<<< Upstream, based on origin/master
+=======
+>>>>>>> refs/heads/feature/securityReadMe
 Rebase test
 =======
 Modify readme by adding more text, which is this line
 >>>>>>> cd98f6e Merge test
+<<<<<<< HEAD
 >>>>>>> refs/heads/feature/securityReadMe
+=======
+<<<<<<< HEAD
+
+Add text for additional testing of rebase
+=======
+Modify readme by adding more text, which is this line
+>>>>>>> cd98f6e Merge test
+=======
+>>>>>>> refs/heads/feature/securityReadMe
+
+Tags testing
+>>>>>>> refs/heads/feature/security
