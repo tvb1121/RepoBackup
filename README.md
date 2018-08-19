@@ -10,4 +10,8 @@ operation.
 
 >>>>>>> branch 'master' of https://github.com/ehemdal/RSEG-0126
 
+<<<<<<< Upstream, based on feature/security
 Modify readme by adding more text, which is this line
+=======
+Rebase test
+>>>>>>> 4b6495a Update README.md
