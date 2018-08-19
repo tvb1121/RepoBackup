@@ -29,3 +29,4 @@ Modify readme by adding more text, which is this line
 >>>>>>> refs/heads/feature/securityReadMe
 
 Tags testing
+Read-only
