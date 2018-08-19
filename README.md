@@ -10,8 +10,16 @@ operation.
 
 >>>>>>> branch 'master' of https://github.com/ehemdal/RSEG-0126
 
+<<<<<<< HEAD
 <<<<<<< Upstream, based on feature/security
 Modify readme by adding more text, which is this line
 =======
 Rebase test
 >>>>>>> 4b6495a Update README.md
+=======
+<<<<<<< Upstream, based on origin/master
+Rebase test
+=======
+Modify readme by adding more text, which is this line
+>>>>>>> cd98f6e Merge test
+>>>>>>> refs/heads/feature/securityReadMe
